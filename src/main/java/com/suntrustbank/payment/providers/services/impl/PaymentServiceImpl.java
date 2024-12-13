@@ -4,5 +4,5 @@ import com.suntrustbank.payment.providers.services.PaymentService;
 import org.springframework.stereotype.Service;
 
 @Service
-public class PaymentPaymentServiceImpl implements PaymentService {
+public class PaymentServiceImpl implements PaymentService {
 }
